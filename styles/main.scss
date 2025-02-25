@@ -1,0 +1,13 @@
+@use 'normalize';
+@use 'fonts';
+@use 'variables';
+@use 'utils';
+@use 'globals';
+
+body {
+  background-color: rgb(88, 90, 85);
+
+  p {
+    color: rgb(255, 251, 251);
+  }
+}
